@@ -18,9 +18,9 @@
 <img width="1023" height="749" alt="Screenshot 2026-10-05 005321" src="https://github.com/user-attachments/assets/3a56b407-fd29-49c0-94e1-ecf2830e46a5" />
 
 # BOM :
-| Item                  | Amount        | Link                              | Note                                             |
-| --------------------- | ------------- | ----------------------------------| -------------------------------------------------|
-| Quadcopter Frame model|      $0       | https://printlegion.hackclub.com/ | can get it printed thru printing legion for free |
-| TOTAL                 |      $0       |
+| Item                  | Amount        | Link                                          | Note                                             |
+| --------------------- | ------------- | ----------------------------------------------| -------------------------------------------------|
+| Quadcopter Frame model|      $2.58    | https://robu.in/product/3d-printing-service1/ |          None                                    |
+| TOTAL                 |      $2.58    |
 
 
